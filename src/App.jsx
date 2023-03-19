@@ -14,7 +14,7 @@ function App() {
     <>
   <Main>
     <Profile/>
-    <Link name={"Basic HTML Template"} source={'./src/assets/pages/basic.html'} styles={"link border-gray-200 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"}/>
+    <Link name={"Basic HTML Template"} source={'../src/assets/pages/basic.html'} styles={"link border-gray-200 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"}/>
     <Link name={"Portfolio"} source={"https://paullarinweb.github.io/portfolio/"} styles={"link bg-white text-black"}/>
     <Link/>
     <SocialLinks>
