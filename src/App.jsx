@@ -20,7 +20,7 @@ function App() {
     <Social source={"https://www.instagram.com/paullarinwebdev"} svg={instagram} title={"instagram"}/>
     <Social source={"https://twitter.com/paullarindev"} svg={twitter} title={"twitter"}/>
     <Social source={"https://codepen.io/paullarinweb"} svg={codepen} title={"codepen"}/>
-    <Social source={"https://www.youtube.com/@paullarindev"} svg={behance} title={"behance"}/>
+    <Social source={"https://www.behance.net/paullarindev"} svg={behance} title={"behance"}/>
     <Social source={"https://github.com/paullarinweb"} svg={github} title={"github"}/>
     <Social source={"https://www.youtube.com/@paullarindev"} svg={youtube} title={"youtube"}/>
     <Social source={"https://www.linkedin.com/in/paul-larin-dev/"} svg={linkedin} title={"linkedin"}/>
