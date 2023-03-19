@@ -23,7 +23,7 @@ function App() {
     <Social source={"https://www.youtube.com/@paullarindev"} svg={behance} title={"behance"}/>
     <Social source={"https://github.com/paullarinweb"} svg={github} title={"github"}/>
     <Social source={"https://www.youtube.com/@paullarindev"} svg={youtube} title={"youtube"}/>
-    <Social source={"https://www.linkedin.com/in/paul-larin-680aa6269"} svg={linkedin} title={"linkedin"}/>
+    <Social source={"https://www.linkedin.com/in/paul-larin-dev/"} svg={linkedin} title={"linkedin"}/>
 
     </SocialLinks>
   <p className='opacity-30'>Icons from <a  target="_blank" href="https://icons8.com">Icons8</a></p> 
