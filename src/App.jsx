@@ -15,7 +15,7 @@ function App() {
   <Main>
     <Profile/>
     <DownloadLink name={"Basic HTML Template"} source={'https://github.com/paullarinweb/html-basic-template/blob/main/Basic-HTML-Template.html'} styles={"link border-gray-200 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500"}/>
-    <Link name={"Portfolio"} source={"https://paullarinweb.github.io/portfolio/"} styles={"link bg-white text-black"}/>
+    <Link name={"Portfolio"} source={"https://paullarin.notion.site/Portfolio-e3f3e55c45f442c19cf549fb06babe55"} styles={"link bg-white text-black"}/>
     <SocialLinks>
     <Social source={"https://www.instagram.com/paullarinwebdev"} svg={instagram} title={"instagram"}/>
     <Social source={"https://twitter.com/paullarindev"} svg={twitter} title={"twitter"}/>
